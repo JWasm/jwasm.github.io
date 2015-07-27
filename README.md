@@ -11,6 +11,12 @@ JWasm is a free MASM-compatible assembler with these features:
 - JWasm's source code is released under the Sybase Open Watcom Public License, which allows free commercial and non-commercial use.
 - There's a bunch of source samples available - they are supplied with the precompiled binary packages.
 
+# JWasm source code
+
+[JWasm](https://github.com/JWasm/JWasm)
+
+[JWasm-regressions](https://github.com/JWasm/JWasm-regressions)
+
 # Building status
 
 [![Build Status](https://travis-ci.org/JWasm/JWasm.svg)](https://travis-ci.org/JWasm/JWasm.svg)
