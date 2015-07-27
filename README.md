@@ -10,3 +10,7 @@ JWasm is a free MASM-compatible assembler with these features:
 - C header files can be converted to include files for JWasm with h2incX.
 - JWasm's source code is released under the Sybase Open Watcom Public License, which allows free commercial and non-commercial use.
 - There's a bunch of source samples available - they are supplied with the precompiled binary packages.
+
+# Building status
+
+[![Build Status](https://travis-ci.org/JWasm/JWasm.svg)](https://travis-ci.org/JWasm/JWasm.svg)
