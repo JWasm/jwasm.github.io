@@ -20,3 +20,18 @@ JWasm is a free MASM-compatible assembler with these features:
 # Building status
 
 [![Build Status](https://travis-ci.org/JWasm/JWasm.svg)](https://travis-ci.org/JWasm/JWasm.svg)
+
+# JWlink
+
+JWlink is a linker for x86 that can create 16-, 32- and 64-bit binaries.
+It's a modified Open Watcom Wlink. Some features have been added and a
+few bugs have been fixed. Generally, it has been made more compatible with
+the MS linker (the cmdline syntax is still quite different).
+ 
+Besides JWlink's source code there are also precompiled binaries available
+for Windows, DOS and Linux. The packages containing precompiled binaries
+also include a Manual (in HtmlHelp format for Windows, else in plain Html).
+
+# JWlink source code
+
+[JWlink](https://github.com/JWasm/JWlink)
